@@ -1,62 +1,166 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-###
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header"/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/matheusmontev-silva-8a06a3317/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/matheusmontev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Matheus+Monte+%F0%9F%91%8B;Desenvolvedor+em+forma%C3%A7%C3%A3o;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+
+  <br/>
+
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusmontev-silva-8a06a3317/)
+  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheusmontev/)
+ 
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=matheusmontev.matheusmontev&right_color=6C63FF" />
+
 </div>
 
-###
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🧑‍💻 Sobre mim
+
+```js
+const matheus = {
+    nome: "Matheus Monte",
+    local: "Bahia, Brasil",
+    formação: "Sistemas de Informação — UNEX (5º semestre)",
+    foco: "Desenvolvedor Full Stack em construção",
+    motto: "Esforço consistente supera talento sem disciplina."
+};
+```
+
+💡 Curioso por natureza gosto de entender o **porquê** por trás das coisas, não só o *como*. Cada projeto que publico aqui é uma oportunidade de aprender algo novo e construir soluções que realmente façam diferença.
+
+🔨 Já desenvolvi desde **sistemas de gestão** com Firebase até **experiências visuais interativas** com Canvas e animações CSS — sempre buscando ir além do básico.
+
+🎯 **Buscando minha primeira oportunidade como estagiário** para aplicar e expandir tudo que venho construindo por conta própria.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💻 Meu Setup
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=matheusmontev.matheusmontev&right_color=red"  />
+
+<table>
+<tr>
+<td align="center" width="140"><b>💻 Notebook</b></td>
+<td>Acer Aspire 3</td>
+</tr>
+<tr>
+<td align="center"><b>⚙️ CPU</b></td>
+<td>AMD Ryzen 5 3500U</td>
+</tr>
+<tr>
+<td align="center"><b>🧠 RAM</b></td>
+<td>12 GB</td>
+</tr>
+<tr>
+<td align="center"><b>🎮 GPU</b></td>
+<td>AMD Radeon Vega 8</td>
+</tr>
+<tr>
+<td align="center"><b>🐧 OS</b></td>
+<td>Windows</td>
+</tr>
+</table>
+
 </div>
 
-###
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  I am a developer in training, passionate about technology and continuous learning.</h3>
-
-###
-
-<p align="left">I'm from Bahia<br>- 🔭 Information Systems student - UNEX<br>- 📚 Currently learning JavaScript and React<br>- ⚡ In my free time I create projects to help other people</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+## 🚀 O que estou estudando
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=matheusmontev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
+| Foco atual | Status |
+|:---|:---:|
+| Angular | 📖 Estudando |
+| Node.js | 📖 Estudando |
+| APIs RESTful | 📖 Estudando |
+| JavaScript avançado | 🔄 Aprofundando |
+
 </div>
 
-###
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,firebase,mysql,git,github,angular,nodejs,vscode&perline=6" alt="Tech Stack" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📂 Projetos em destaque
+
+<div align="center">
+
+<a href="https://github.com/matheusmontev/Sistema-de-Gestao-Pilates">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusmontev&repo=Sistema-de-Gestao-Pilates&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
+</a>
+<a href="https://github.com/matheusmontev/SISTEMA-DE-GESTAO-DE-ATENDIMENTOS-SECRETARIA-DE-ASSISTENCIA-SOCIAL">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusmontev&repo=SISTEMA-DE-GESTAO-DE-ATENDIMENTOS-SECRETARIA-DE-ASSISTENCIA-SOCIAL&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
+</a>
+<a href="https://github.com/matheusmontev/GYM-PROJECT">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusmontev&repo=GYM-PROJECT&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
+</a>
+<a href="https://github.com/matheusmontev/Ceu-Estrelado">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusmontev&repo=Ceu-Estrelado&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
+</a>
+<a href="https://github.com/matheusmontev/Album-de-fotos-interativo">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusmontev&repo=Album-de-fotos-interativo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
+</a>
+<a href="https://github.com/matheusmontev/Desenvolvimento_de_apis">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusmontev&repo=Desenvolvimento_de_apis&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
+</a>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=matheusmontev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmontev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" alt="Top Languages" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com?user=matheusmontev&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" height="200" alt="Streak Stats" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matheusmontev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF" alt="Activity Graph" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+
+  <br/><br/>
+
+  *"Cada linha de código que escrevo é um passo a mais na direção de quem eu quero me tornar."*
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/matheusmontev/matheusmontev/output/github-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
