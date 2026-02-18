@@ -94,26 +94,71 @@ const matheus = {
 ## 📂 Projetos em destaque
 
 <div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/matheusmontev/Sistema-de-Gestao-Pilates">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusmontev&repo=Sistema-de-Gestao-Pilates&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/matheusmontev/SISTEMA-DE-GESTAO-DE-ATENDIMENTOS-SECRETARIA-DE-ASSISTENCIA-SOCIAL">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusmontev&repo=SISTEMA-DE-GESTAO-DE-ATENDIMENTOS-SECRETARIA-DE-ASSISTENCIA-SOCIAL&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/matheusmontev/GYM-PROJECT">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusmontev&repo=GYM-PROJECT&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/matheusmontev/Ceu-Estrelado">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusmontev&repo=Ceu-Estrelado&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/matheusmontev/Album-de-fotos-interativo">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusmontev&repo=Album-de-fotos-interativo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/matheusmontev/Desenvolvimento_de_apis">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusmontev&repo=Desenvolvimento_de_apis&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-</a>
+### 🏋️ [Sistema de Gestão - Pilates](https://github.com/matheusmontev/Sistema-de-Gestao-Pilates)
+Sistema completo para gerenciamento de estúdio de pilates com cadastro de alunos, controle financeiro, agendamento e timer de treino.
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏛️ [Gestão - Assistência Social](https://github.com/matheusmontev/SISTEMA-DE-GESTAO-DE-ATENDIMENTOS-SECRETARIA-DE-ASSISTENCIA-SOCIAL)
+Protótipo de sistema para secretaria de assistência social com gestão de solicitações, filtros por status/setor e perfis de atendimento.
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💪 [GYM Project](https://github.com/matheusmontev/GYM-PROJECT)
+Plataforma de treinos com gerenciamento de exercícios, montagem de rotinas e acompanhamento de progresso.
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌌 [Céu Estrelado](https://github.com/matheusmontev/Ceu-Estrelado)
+Página interativa com céu noturno, constelações animadas que formam frases românticas, estrelas cadentes e efeitos visuais em Canvas.
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Canvas](https://img.shields.io/badge/-Canvas-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📸 [Álbum de Fotos Interativo](https://github.com/matheusmontev/Album-de-fotos-interativo)
+Álbum digital com navegação entre fotos, música individual por foto via YouTube API, animações de transição e carta interativa.
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![YouTube API](https://img.shields.io/badge/-YouTube_API-FF0000?style=flat-square&logo=youtube&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔌 [Desenvolvimento de APIs](https://github.com/matheusmontev/Desenvolvimento_de_apis)
+Projetos práticos desenvolvidos durante a disciplina de Desenvolvimento de APIs na faculdade — foco em rotas RESTful e boas práticas.
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+</td>
+</tr>
+</table>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -146,13 +191,8 @@ const matheus = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-
   <br/><br/>
-
   *"Cada linha de código que escrevo é um passo a mais na direção de quem eu quero me tornar."*
-
 </div>
 
 <br/>
