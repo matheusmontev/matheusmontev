@@ -21,7 +21,6 @@
 const matheus = {
     nome: "Matheus Monte",
     local: "Bahia, Brasil",
-    formação: "Sistemas de Informação — UNEX (5º semestre)",
     foco: "Desenvolvedor Full Stack em construção",
     motto: "Esforço consistente supera talento sem disciplina."
 };
@@ -35,32 +34,35 @@ const matheus = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💻 Meu Setup
+## 🎓 Formação Acadêmica
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://img.shields.io/badge/-UNEX-6C63FF?style=for-the-badge&logoColor=white" alt="UNEX"/>
+</td>
+<td>
+
+**Bacharelado em Sistemas de Informação**
+<br/>
+🏫 Universidade de Excelência — UNEX · Bahia
+<br/>
+📅 **2024** — **2028** · 5º semestre em andamento
+<br/>
+
+</td>
+</tr>
+</table>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💻 Setup
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="140"><b>💻 Notebook</b></td>
-<td>Acer Aspire 3</td>
-</tr>
-<tr>
-<td align="center"><b>⚙️ CPU</b></td>
-<td>AMD Ryzen 5 3500U</td>
-</tr>
-<tr>
-<td align="center"><b>🧠 RAM</b></td>
-<td>12 GB</td>
-</tr>
-<tr>
-<td align="center"><b>🎮 GPU</b></td>
-<td>AMD Radeon Vega 8</td>
-</tr>
-<tr>
-<td align="center"><b>🐧 OS</b></td>
-<td>Windows</td>
-</tr>
-</table>
+`Acer Aspire 3` · `Ryzen 5 3500U` · `12 GB RAM` · `Vega 8` · `Windows`
 
 </div>
 
@@ -191,11 +193,10 @@ Projetos práticos desenvolvidos durante a disciplina de Desenvolvimento de APIs
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <br/><br/>
+  <br/>
+
   *"Cada linha de código que escrevo é um passo a mais na direção de quem eu quero me tornar."*
+
 </div>
-
-<br/>
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
