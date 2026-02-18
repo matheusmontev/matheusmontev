@@ -157,10 +157,5 @@ const matheus = {
 
 <br/>
 
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/matheusmontev/matheusmontev/output/github-snake-dark.svg" alt="Snake animation" />
-
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
